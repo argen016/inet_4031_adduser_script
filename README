@@ -1,0 +1,17 @@
+# PHP Crude CRUD
+
+## Description
+This repository contains a simple three-tier data-driven web application. It was part of a class project to demonstrate CRUD (Create, Read, Update, Delete) functionality using PHP and MySQL.
+
+## What I Did
+- Set up a virtual machine running Ubuntu.
+- Installed and configured LAMP stack (Linux, Apache, MySQL, PHP).
+- Created a sample database schema with 300,000 records.
+- Built PHP scripts for database operations.
+- Packaged the application into a `.tar.gz` file for deployment.
+
+## How to Use
+1. Clone this repository.
+2. Deploy to a LAMP server environment.
+3. Configure database credentials in `config.php`.
+4. Open in a web browser to interact with the app.
